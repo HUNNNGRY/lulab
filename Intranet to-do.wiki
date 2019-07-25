@@ -1,0 +1,129 @@
+__TOC__
+
+= Intranet to-do =
+
+[https://github.com/lulab/intranet/projects/1 Private]
+
+== Private--&gt;public ==
+
+=== Wet lab regulation ===
+
+public: https://cloud.tsinghua.edu.cn/f/2813f4f589d64e1e8ee1/
+
+
+
+=== Safety Guide ===
+
+* Private : https://github.com/lulab/intranet/wiki/Wet-lab-safety-operation-guidelines 
+
+
+
+== Public--&gt;private ==
+
+private: https://github.com/lulab/intranet/wiki/Wet-Lab
+
+=== Ribo-seq protocol ===
+
+Private: https://github.com/lulab/intranet/wiki/Ribo-seq-Protocol
+
+=== 0 Plasma collection standard procedure ===
+
+* Public: https://github.com/SiqiWang94/Intranet_Sharing/wiki/Plasma-collection-standard-procedure
+
+=== 1 exRNA isolation ===
+
+* Pubilc: https://cloud.tsinghua.edu.cn/d/29daabc35b2d4bdc8bd0/files/?p=/QIAzol-Lysis-Reagent-EN.pdf
+
+=== 2 DNase digestion ===
+
+'''File missing!''' https://cloud.tsinghua.edu.cn/f/6e5e4d58f9c7459a9b78/
+
+=== 3 RNA Clean &amp; Concentration ===
+
+* Public: https://cloud.tsinghua.edu.cn/f/086f5c23b4b2464e99b0/
+
+=== 4 samle QC ===
+
+Guide and Protocols for cell free RNA Process
+
+* public: https://github.com/SiqiWang94/Intranet_Sharing/wiki/Guide-and-Protocols-for-cell-free-RNA-Process
+
+==== 41 exRNA isolation: QIAzol reagent ====
+
+* Public: https://cloud.tsinghua.edu.cn/f/209aa9d088464e229289/
+
+==== 42 DNase digestion: DNase1 ====
+
+'''File missing!''' https://cloud.tsinghua.edu.cn/f/6e5e4d58f9c7459a9b78/
+
+==== 43 RNA clean and concentration: Zymo RNA Clean &amp; Concentration kit ====
+
+* Public: https://cloud.tsinghua.edu.cn/f/086f5c23b4b2464e99b0/
+
+==== 44 Sample QC:  ====
+
+Sample QC guideline Qubit miRNA Assay'''-----&gt;'''public: https://cloud.tsinghua.edu.cn/f/3f8bf3ab12cf46fcb447/
+
+===== Small RNA qPCR  =====
+
+* Reverse transcription: miRcute miRNA First-strand cDNA synthesis kit'''-----&gt;''' public: https://cloud.tsinghua.edu.cn/f/aadc92c35a4b468f9277/
+* SYBR mix: miRcute miRNA qPCR detection kit'''-----&gt;'''public: https://cloud.tsinghua.edu.cn/f/b68a7d4910564178ab88/
+
+===== Long RNA qPCR =====
+
+* Reverse transcription: Thermo RevertAid First-strand cDNA synthesis kit'''-----&gt;'''public: https://cloud.tsinghua.edu.cn/f/1ac458f3f311412ca56f/
+* SYBR mix:WYBR qPCR kit'''-----&gt;''' public: https://cloud.tsinghua.edu.cn/f/d253a3cbc3454d8daad2/
+
+==== 45 Spike-in ====
+
+===== Small RNA: ExiSEQ Spike-in =====
+
+* public: https://cloud.tsinghua.edu.cn/f/70b856511a5f4917ac21/
+
+===== Long RNA: ERCC Spike-in =====
+
+* Public: https://cloud.tsinghua.edu.cn/f/dde42a7165764bd38fa3/
+
+==== 46 Library construction ====
+
+===== Small RNA library =====
+
+* NEB smRNA kit'''-----&gt;'''public:https://cloud.tsinghua.edu.cn/f/af1bdff1602048148d4e/
+* SMART smRNA kit'''-----&gt;'''public:https://cloud.tsinghua.edu.cn/f/955ef717a7ca457994d3/
+
+===== Long RNA library =====
+
+* SMART pico kit'''-----&gt;'''public:https://cloud.tsinghua.edu.cn/f/ba6b89d6070941ccabcd/
+
+==== 47 Library QC ====
+
+* Qubit dsDNA assay'''-----&gt;'''public:https://cloud.tsinghua.edu.cn/f/9321f1dd43ae479bb943/
+* Agilent 2100 Bioanalyzer'''-----&gt;'''public:https://cloud.tsinghua.edu.cn/f/4c33c96ea61848a6b941/
+
+=== 5 spike-in ===
+
+Guide and Protocols for cell free RNA Process
+
+* public: https://github.com/SiqiWang94/Intranet_Sharing/wiki/Guide-and-Protocols-for-cell-free-RNA-Process
+
+(与4 sample QC相同链接)
+
+=== 6 library construction ===
+
+'''链接失败，需要登录云盘查看'''
+
+=== 7 Library QC ===
+
+* public: https://cloud.tsinghua.edu.cn/f/9321f1dd43ae479bb943/
+
+=== Depreated:Samples QC -- plasma ===
+
+private: https://github.com/lulab/intranet/wiki/Samples-QC-----plasma
+
+=== Depreated:Guide and Protocols for cell free RNA Process ===
+
+Guide and Protocols for cell free RNA Process
+
+* public: https://github.com/SiqiWang94/Intranet_Sharing/wiki/Guide-and-Protocols-for-cell-free-RNA-Process
+
+(与4 sample QC相同链接)
