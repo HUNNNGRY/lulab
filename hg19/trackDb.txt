@@ -1,5 +1,5 @@
 track RnBeadsMethylationTrack1
-bigDataUrl rnbeads_sample1.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample1.bigWig
 shortLabel SRR11615795.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615795.bismark.cov
 visibility full
@@ -11,7 +11,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack2
-bigDataUrl rnbeads_sample2.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample2.bigWig
 shortLabel SRR11615796.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615796.bismark.cov
 visibility full
@@ -23,7 +23,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack3
-bigDataUrl rnbeads_sample3.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample3.bigWig
 shortLabel SRR11615797.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615797.bismark.cov
 visibility full
@@ -35,7 +35,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack4
-bigDataUrl rnbeads_sample4.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample4.bigWig
 shortLabel SRR11615798.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615798.bismark.cov
 visibility full
@@ -47,7 +47,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack5
-bigDataUrl rnbeads_sample5.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample5.bigWig
 shortLabel SRR11615799.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615799.bismark.cov
 visibility full
@@ -59,7 +59,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack6
-bigDataUrl rnbeads_sample6.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample6.bigWig
 shortLabel SRR11615805.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615805.bismark.cov
 visibility full
@@ -71,7 +71,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack7
-bigDataUrl rnbeads_sample7.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample7.bigWig
 shortLabel SRR11615806.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615806.bismark.cov
 visibility full
@@ -83,7 +83,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack8
-bigDataUrl rnbeads_sample8.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample8.bigWig
 shortLabel SRR11615807.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615807.bismark.cov
 visibility full
@@ -95,7 +95,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack9
-bigDataUrl rnbeads_sample9.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample9.bigWig
 shortLabel SRR11615808.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615808.bismark.cov
 visibility full
@@ -107,7 +107,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack10
-bigDataUrl rnbeads_sample10.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample10.bigWig
 shortLabel SRR11615809.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615809.bismark.cov
 visibility full
@@ -119,7 +119,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack11
-bigDataUrl rnbeads_sample11.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample11.bigWig
 shortLabel SRR11615810.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615810.bismark.cov
 visibility full
@@ -131,7 +131,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack12
-bigDataUrl rnbeads_sample12.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample12.bigWig
 shortLabel SRR11615812.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615812.bismark.cov
 visibility full
@@ -143,7 +143,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack13
-bigDataUrl rnbeads_sample13.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample13.bigWig
 shortLabel SRR11615815.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615815.bismark.cov
 visibility full
@@ -155,7 +155,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack14
-bigDataUrl rnbeads_sample14.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample14.bigWig
 shortLabel SRR11615819.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615819.bismark.cov
 visibility full
@@ -167,7 +167,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack15
-bigDataUrl rnbeads_sample15.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample15.bigWig
 shortLabel SRR11615820.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615820.bismark.cov
 visibility full
@@ -179,7 +179,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack16
-bigDataUrl rnbeads_sample16.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample16.bigWig
 shortLabel SRR11615826.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615826.bismark.cov
 visibility full
@@ -191,7 +191,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack17
-bigDataUrl rnbeads_sample17.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample17.bigWig
 shortLabel SRR11615828.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615828.bismark.cov
 visibility full
@@ -203,7 +203,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack18
-bigDataUrl rnbeads_sample18.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample18.bigWig
 shortLabel SRR11615833.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615833.bismark.cov
 visibility full
@@ -215,7 +215,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack19
-bigDataUrl rnbeads_sample19.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample19.bigWig
 shortLabel SRR11615838.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615838.bismark.cov
 visibility full
@@ -227,7 +227,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack20
-bigDataUrl rnbeads_sample20.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample20.bigWig
 shortLabel SRR11615841.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615841.bismark.cov
 visibility full
@@ -239,7 +239,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack21
-bigDataUrl rnbeads_sample21.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample21.bigWig
 shortLabel SRR11615849.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615849.bismark.cov
 visibility full
@@ -251,7 +251,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack22
-bigDataUrl rnbeads_sample22.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample22.bigWig
 shortLabel SRR11615850.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615850.bismark.cov
 visibility full
@@ -263,7 +263,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack23
-bigDataUrl rnbeads_sample23.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample23.bigWig
 shortLabel SRR11615851.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615851.bismark.cov
 visibility full
@@ -275,7 +275,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack24
-bigDataUrl rnbeads_sample24.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample24.bigWig
 shortLabel SRR11615853.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615853.bismark.cov
 visibility full
@@ -287,7 +287,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack25
-bigDataUrl rnbeads_sample25.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample25.bigWig
 shortLabel SRR11615868.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615868.bismark.cov
 visibility full
@@ -299,7 +299,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack26
-bigDataUrl rnbeads_sample26.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample26.bigWig
 shortLabel SRR11615893.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615893.bismark.cov
 visibility full
@@ -311,7 +311,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack27
-bigDataUrl rnbeads_sample27.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample27.bigWig
 shortLabel SRR11615896.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615896.bismark.cov
 visibility full
@@ -323,7 +323,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack28
-bigDataUrl rnbeads_sample28.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample28.bigWig
 shortLabel SRR11615897.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615897.bismark.cov
 visibility full
@@ -335,7 +335,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack29
-bigDataUrl rnbeads_sample29.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample29.bigWig
 shortLabel SRR11615899.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615899.bismark.cov
 visibility full
@@ -347,7 +347,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack30
-bigDataUrl rnbeads_sample30.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample30.bigWig
 shortLabel SRR11615906.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615906.bismark.cov
 visibility full
@@ -359,7 +359,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack31
-bigDataUrl rnbeads_sample31.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample31.bigWig
 shortLabel SRR11615907.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615907.bismark.cov
 visibility full
@@ -371,7 +371,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack32
-bigDataUrl rnbeads_sample32.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample32.bigWig
 shortLabel SRR11615908.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615908.bismark.cov
 visibility full
@@ -383,7 +383,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack33
-bigDataUrl rnbeads_sample33.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample33.bigWig
 shortLabel SRR11615909.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615909.bismark.cov
 visibility full
@@ -395,7 +395,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack34
-bigDataUrl rnbeads_sample34.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample34.bigWig
 shortLabel SRR11615910.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615910.bismark.cov
 visibility full
@@ -407,7 +407,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack35
-bigDataUrl rnbeads_sample35.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample35.bigWig
 shortLabel SRR11615912.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615912.bismark.cov
 visibility full
@@ -419,7 +419,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack36
-bigDataUrl rnbeads_sample36.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample36.bigWig
 shortLabel SRR11615920.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615920.bismark.cov
 visibility full
@@ -431,7 +431,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack37
-bigDataUrl rnbeads_sample37.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample37.bigWig
 shortLabel SRR11615922.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615922.bismark.cov
 visibility full
@@ -443,7 +443,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack38
-bigDataUrl rnbeads_sample38.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample38.bigWig
 shortLabel SRR11615923.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615923.bismark.cov
 visibility full
@@ -455,7 +455,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack39
-bigDataUrl rnbeads_sample39.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample39.bigWig
 shortLabel SRR11615928.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615928.bismark.cov
 visibility full
@@ -467,7 +467,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack40
-bigDataUrl rnbeads_sample40.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample40.bigWig
 shortLabel SRR11615930.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615930.bismark.cov
 visibility full
@@ -479,7 +479,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack41
-bigDataUrl rnbeads_sample41.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample41.bigWig
 shortLabel SRR11615937.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615937.bismark.cov
 visibility full
@@ -491,7 +491,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack42
-bigDataUrl rnbeads_sample42.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample42.bigWig
 shortLabel SRR11615940.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615940.bismark.cov
 visibility full
@@ -503,7 +503,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack43
-bigDataUrl rnbeads_sample43.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample43.bigWig
 shortLabel SRR11615941.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615941.bismark.cov
 visibility full
@@ -515,7 +515,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack44
-bigDataUrl rnbeads_sample44.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample44.bigWig
 shortLabel SRR11615942.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615942.bismark.cov
 visibility full
@@ -527,7 +527,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack45
-bigDataUrl rnbeads_sample45.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample45.bigWig
 shortLabel SRR11615943.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615943.bismark.cov
 visibility full
@@ -539,7 +539,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack46
-bigDataUrl rnbeads_sample46.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample46.bigWig
 shortLabel SRR11615946.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615946.bismark.cov
 visibility full
@@ -551,7 +551,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack47
-bigDataUrl rnbeads_sample47.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample47.bigWig
 shortLabel SRR11615947.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615947.bismark.cov
 visibility full
@@ -563,7 +563,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack48
-bigDataUrl rnbeads_sample48.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample48.bigWig
 shortLabel SRR11615949.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615949.bismark.cov
 visibility full
@@ -575,7 +575,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack49
-bigDataUrl rnbeads_sample49.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample49.bigWig
 shortLabel SRR11615952.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615952.bismark.cov
 visibility full
@@ -587,7 +587,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack50
-bigDataUrl rnbeads_sample50.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample50.bigWig
 shortLabel SRR11615955.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615955.bismark.cov
 visibility full
@@ -599,7 +599,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack51
-bigDataUrl rnbeads_sample51.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample51.bigWig
 shortLabel SRR11615957.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615957.bismark.cov
 visibility full
@@ -611,7 +611,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack52
-bigDataUrl rnbeads_sample52.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample52.bigWig
 shortLabel SRR11615961.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615961.bismark.cov
 visibility full
@@ -623,7 +623,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack53
-bigDataUrl rnbeads_sample53.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample53.bigWig
 shortLabel SRR11615962.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615962.bismark.cov
 visibility full
@@ -635,7 +635,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack54
-bigDataUrl rnbeads_sample54.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample54.bigWig
 shortLabel SRR11615966.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615966.bismark.cov
 visibility full
@@ -647,7 +647,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack55
-bigDataUrl rnbeads_sample55.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample55.bigWig
 shortLabel SRR11615968.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615968.bismark.cov
 visibility full
@@ -659,7 +659,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack56
-bigDataUrl rnbeads_sample56.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample56.bigWig
 shortLabel SRR11615973.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615973.bismark.cov
 visibility full
@@ -671,7 +671,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack57
-bigDataUrl rnbeads_sample57.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample57.bigWig
 shortLabel SRR11615975.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615975.bismark.cov
 visibility full
@@ -683,7 +683,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack58
-bigDataUrl rnbeads_sample58.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample58.bigWig
 shortLabel SRR11615976.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615976.bismark.cov
 visibility full
@@ -695,7 +695,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack59
-bigDataUrl rnbeads_sample59.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample59.bigWig
 shortLabel SRR11615986.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615986.bismark.cov
 visibility full
@@ -707,7 +707,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack60
-bigDataUrl rnbeads_sample60.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample60.bigWig
 shortLabel SRR11615987.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615987.bismark.cov
 visibility full
@@ -719,7 +719,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack61
-bigDataUrl rnbeads_sample61.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample61.bigWig
 shortLabel SRR11615988.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615988.bismark.cov
 visibility full
@@ -731,7 +731,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack62
-bigDataUrl rnbeads_sample62.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample62.bigWig
 shortLabel SRR11615996.bismark.cov
 longLabel RnBeads methylation track for sample SRR11615996.bismark.cov
 visibility full
@@ -743,7 +743,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack63
-bigDataUrl rnbeads_sample63.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample63.bigWig
 shortLabel SRR11616006.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616006.bismark.cov
 visibility full
@@ -755,7 +755,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack64
-bigDataUrl rnbeads_sample64.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample64.bigWig
 shortLabel SRR11616010.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616010.bismark.cov
 visibility full
@@ -767,7 +767,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack65
-bigDataUrl rnbeads_sample65.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample65.bigWig
 shortLabel SRR11616021.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616021.bismark.cov
 visibility full
@@ -779,7 +779,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack66
-bigDataUrl rnbeads_sample66.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample66.bigWig
 shortLabel SRR11616023.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616023.bismark.cov
 visibility full
@@ -791,7 +791,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack67
-bigDataUrl rnbeads_sample67.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample67.bigWig
 shortLabel SRR11616026.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616026.bismark.cov
 visibility full
@@ -803,7 +803,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack68
-bigDataUrl rnbeads_sample68.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample68.bigWig
 shortLabel SRR11616028.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616028.bismark.cov
 visibility full
@@ -815,7 +815,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack69
-bigDataUrl rnbeads_sample69.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample69.bigWig
 shortLabel SRR11616029.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616029.bismark.cov
 visibility full
@@ -827,7 +827,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack70
-bigDataUrl rnbeads_sample70.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample70.bigWig
 shortLabel SRR11616030.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616030.bismark.cov
 visibility full
@@ -839,7 +839,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack71
-bigDataUrl rnbeads_sample71.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample71.bigWig
 shortLabel SRR11616031.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616031.bismark.cov
 visibility full
@@ -851,7 +851,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack72
-bigDataUrl rnbeads_sample72.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample72.bigWig
 shortLabel SRR11616039.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616039.bismark.cov
 visibility full
@@ -863,7 +863,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack73
-bigDataUrl rnbeads_sample73.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample73.bigWig
 shortLabel SRR11616040.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616040.bismark.cov
 visibility full
@@ -875,7 +875,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack74
-bigDataUrl rnbeads_sample74.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample74.bigWig
 shortLabel SRR11616042.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616042.bismark.cov
 visibility full
@@ -887,7 +887,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack75
-bigDataUrl rnbeads_sample75.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample75.bigWig
 shortLabel SRR11616044.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616044.bismark.cov
 visibility full
@@ -899,7 +899,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack76
-bigDataUrl rnbeads_sample76.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample76.bigWig
 shortLabel SRR11616045.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616045.bismark.cov
 visibility full
@@ -911,7 +911,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack77
-bigDataUrl rnbeads_sample77.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample77.bigWig
 shortLabel SRR11616046.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616046.bismark.cov
 visibility full
@@ -923,7 +923,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack78
-bigDataUrl rnbeads_sample78.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample78.bigWig
 shortLabel SRR11616047.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616047.bismark.cov
 visibility full
@@ -935,7 +935,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack79
-bigDataUrl rnbeads_sample79.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample79.bigWig
 shortLabel SRR11616048.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616048.bismark.cov
 visibility full
@@ -947,7 +947,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack80
-bigDataUrl rnbeads_sample80.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample80.bigWig
 shortLabel SRR11616050.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616050.bismark.cov
 visibility full
@@ -959,7 +959,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack81
-bigDataUrl rnbeads_sample81.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample81.bigWig
 shortLabel SRR11616051.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616051.bismark.cov
 visibility full
@@ -971,7 +971,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack82
-bigDataUrl rnbeads_sample82.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample82.bigWig
 shortLabel SRR11616068.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616068.bismark.cov
 visibility full
@@ -983,7 +983,7 @@ spectrum on
 type bigWig
 
 track RnBeadsMethylationTrack83
-bigDataUrl rnbeads_sample83.bigWig
+bigDataUrl https://raw.githubusercontent.com/HUNNNGRY/lulab/master/hg19/rnbeads_sample83.bigWig
 shortLabel SRR11616080.bismark.cov
 longLabel RnBeads methylation track for sample SRR11616080.bismark.cov
 visibility full
