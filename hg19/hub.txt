@@ -1,0 +1,5 @@
+hub RnBeads Analysis Hub
+shortLabel RnBeads Analysis -- sites,bigWig
+longLabel sites methylation (bigWig)
+genomesFile genomes.txt
+email -@-.com
