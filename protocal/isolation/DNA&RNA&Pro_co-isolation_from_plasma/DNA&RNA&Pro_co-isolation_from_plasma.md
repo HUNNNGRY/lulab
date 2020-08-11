@@ -6,11 +6,11 @@
 
 **Reagent and equipment**
 
-![image-20200811104241699](/Users/baopengfei/Desktop/GITHUB luLAB/Lulab/protocal/DNA&RNA&Pro_co-isolation_from_plasma/img/image-20200811104241699.png)
+![image-20200811104241699](img/image-20200811104241699.png)
 
 ## pipeline
 
-![image-20200811113740089](/Users/baopengfei/Desktop/GITHUB luLAB/Lulab/protocal/DNA&RNA&Pro_co-isolation_from_plasma/img/image-20200811113740089.png)
+![image-20200811113740089](img/image-20200811113740089.png)
 
 
 
