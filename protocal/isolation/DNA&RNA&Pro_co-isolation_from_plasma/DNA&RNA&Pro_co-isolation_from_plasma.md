@@ -45,7 +45,7 @@
 
 ### 2 Isolate RNA
 
-![image-20200811112833308](/Users/baopengfei/Desktop/GITHUB luLAB/Lulab/protocal/DNA&RNA&Pro_co-isolation_from_plasma/img/image-20200811112833308.png)
+![image-20200811112833308](img/image-20200811112833308.png)
 
 21. Precipitate the RNA
 
@@ -199,7 +199,7 @@ Note: To ensure complete resuspension of the pellet, we recommend that you incub
 
 Proceed directly to downstream applications, or store the sample at –20°C.
 
-### 4* Dialyse the proteins
+### 4* Dialyse the proteins (OPTIONAL)
 
 1. Load the phenol-ethanol supernatant into the dialysis membrane.
 
